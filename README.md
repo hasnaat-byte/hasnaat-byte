@@ -1,13 +1,5 @@
 <div align="center">
 
-<sub><code>HASNAAT MALIK &nbsp;·&nbsp; @hasnaat-byte</code></sub>
-
-# BETWEEN COMMITS
-
-<sub>notes from a long-running branch</sub>
-
-<br>
-
 <img src="between-commits.png" alt="An evening scene under string lights: two figures stand facing each other, smiling, while a blurred crowd moves behind them." width="100%">
 
 <br>
