@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="between-commits.png" alt="An evening scene under string lights: two figures stand facing each other, smiling, while a blurred crowd moves behind them." width="100%">
-
-<br>
-
-<code>Somewhere between what I felt and what never happened.</code>
-
-<br>
+<img src="hero.svg" alt="An evening scene under string lights: two figures stand facing each other, smiling, while a blurred crowd moves behind them." width="100%">
 
 </div>
 
@@ -83,12 +77,11 @@ Most of what I write starts as a question. The good ones become projects.
 
 ### 05 — CURRENT STATE
 
-```yaml
-branch:      main
-status:      still_building
-direction:   forward
-next_commit: unknown
-```
+<div align="center">
+
+<img src="typing-state.svg" alt="branch: main / status: still_building / direction: forward / next_commit: unknown" width="440">
+
+</div>
 
 ---
 
