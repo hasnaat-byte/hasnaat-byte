@@ -2,6 +2,12 @@
 
 <img src="hero.svg" alt="An evening scene under string lights: two figures stand facing each other, smiling, while a blurred crowd moves behind them." width="100%">
 
+<br>
+
+<code>Somewhere between what I felt and what never happened.</code>
+
+<br>
+
 </div>
 
 <!--
